@@ -1,0 +1,6 @@
+arviz.geweke
+============
+
+.. currentmodule:: 
+
+.. autoattribute:: arviz.geweke
